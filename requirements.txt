@@ -1,0 +1,24 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Vector storage
+chromadb
+langchain-chroma
+
+# Embeddings and LLM
+langchain-ollama
+
+# PDF processing
+pypdf
+
+# Terminal UI
+rich
+
+# Environment variables
+python-dotenv
+
+# Testing
+pytest
