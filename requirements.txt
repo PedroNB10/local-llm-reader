@@ -1,24 +1,24 @@
 # Core dependencies
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
+langchain==1.2.9
+langchain-community==0.4.1
+langchain-core==1.2.9
+langchain-text-splitters==1.1.0
 
 # Vector storage
-chromadb
-langchain-chroma
+chromadb==1.4.1
+langchain-chroma==1.1.0
 
 # Embeddings and LLM
-langchain-ollama
+langchain-ollama==1.0.1
 
 # PDF processing
-pypdf
+pypdf==6.7.0
 
 # Terminal UI
-rich
+rich==14.3.2
 
 # Environment variables
-python-dotenv
+python-dotenv==1.2.1
 
 # Testing
-pytest
+pytest==9.0.2
